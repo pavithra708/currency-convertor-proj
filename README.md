@@ -1,61 +1,46 @@
-# currency-convertor-proj
-Currency Converter
+# Currency Converter
 
 A simple web-based currency converter that allows users to convert values between different currencies using real-time exchange rates.
 
-🚀 Features
+## 🚀 Features
+- Convert between multiple currencies
+- Real-time exchange rate updates
+- User-friendly interface
+- Responsive design for mobile and desktop
 
-Convert between multiple currencies
+## 🛠️ Technologies Used
+- **HTML5**
+- **CSS3**
+- **JavaScript** 
 
-Real-time exchange rate updates
+## 📦 Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/pavithra708/currency-convertor-proj/tree/main
+   ```
+2. Open `currency.html` in your preferred browser.
 
-User-friendly interface
+## ⚡ Usage
+1. Enter the amount you want to convert.
+2. Select the source and target currencies.
+3. Click the **Convert** button to get the converted value.
 
-Responsive design for mobile and desktop
-
-🛠️ Technologies Used
-
-HTML5
-
-CSS3
-
-JavaScript 
-
-📦 Installation
-
-Clone the repository:
-
-git clone https://github.com/pavithra708/currency-convertor-proj/tree/main
-
-Navigate to the project directory:
-
-cd currency-converter
-
-Open index.html in your preferred browser.
-
-⚡ Usage
-
-Enter the amount you want to convert.
-
-Select the source and target currencies.
-
-Click the Convert button to get the converted value.
-
-📊 Example
-
+## 📊 Example
+```
 100 USD ➡️ EUR = 91.45 EUR
+```
 
-📂 Project Structure
-
+## 📂 Project Structure
+```
 currency-converter/
 ├── currency.html
 ├── currency.css
 └── currency.js
+```
 
-📝 Contributing
-
+## 📝 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
 
-📃 License
+## 📃 License
+This project is licensed under the [MIT License](LICENSE).
 
-This project is licensed under the MIT License.
