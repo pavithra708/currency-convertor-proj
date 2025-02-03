@@ -25,7 +25,7 @@ JavaScript
 
 Clone the repository:
 
-git clone https://github.com/pavithra708/currency-converter-proj
+git clone https://github.com/pavithra708/currency-convertor-proj/tree/main
 
 Navigate to the project directory:
 
